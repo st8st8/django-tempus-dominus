@@ -1,6 +1,6 @@
 import pytest
 
-from tempus_dominus import widgets
+from tempus_dominus_6 import widgets
 
 
 def test_datepicker_format_localized(settings):

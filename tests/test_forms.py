@@ -3,7 +3,7 @@ import importlib
 import pytest
 
 from . import forms
-from tempus_dominus import widgets
+from tempus_dominus_6 import widgets
 
 
 @pytest.mark.parametrize(

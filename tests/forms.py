@@ -1,6 +1,6 @@
 from django import forms
 from django.forms import widgets
-from tempus_dominus.widgets import DatePicker, TimePicker, DateTimePicker
+from tempus_dominus_6.widgets import DatePicker, TimePicker, DateTimePicker
 
 
 class DateFieldForm(forms.Form):
