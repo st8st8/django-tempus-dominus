@@ -17,11 +17,8 @@ The following settings are available:
 Three widgets are provided, no discrepancy is made just now between them:
 
 * `DatePicker`
-    * Defaults to `L` if `TEMPUS_DOMINUS_LOCALIZE` is `True`, otherwise `TEMPUS_DOMINUS_DATE_FORMAT`
 * `DateTimePicker`
-    * Defaults to `L LTS` if `TEMPUS_DOMINUS_LOCALIZE` is `True`, otherwise `TEMPUS_DOMINUS_DATETIME_FORMAT`
 * `TimePicker`
-    * Defaults to `LTS` if `TEMPUS_DOMINUS_LOCALIZE` is `True`, otherwise `TEMPUS_DOMINUS_TIME_FORMAT`
 
 In your Django form, you can use the widgets like this:
 
